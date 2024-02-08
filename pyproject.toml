@@ -1,0 +1,28 @@
+[build-system]
+requires = ['setuptools', 'wheel']
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rtl_channels"
+dynamic = ['version']
+authors = [
+  { name="Matt Johnson", email="infernox64@gmail.com" },
+]
+description = "package containing a list of police and emergency radio frequencies with built-in support for pyrtlsdr"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pyrtlsdr",
+    "pyrtlsdrlib",
+    "sqlite3"
+]
+
+
+[project.urls]
+Homepage = "https://github.com/infernox64/rtl_channels"
+Issues = "https://github.com/infernox64/rtl_channels/issues"
