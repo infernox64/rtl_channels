@@ -1,0 +1,15 @@
+freq_list = [
+    {"bandwidth": 125000.0, "frequency": 4715375000.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 4831779000.0, "mode": 0},
+    {"bandwidth": 125000.0, "frequency": 4715620000.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 4714627000.0, "mode": 0},
+    {"bandwidth": 125000.0, "frequency": 4714627000.0, "mode": 0},
+    {"bandwidth": 125000.0, "frequency": 4714375000.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 483515400.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 483163900.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 483526200.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 483539300.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 483186800.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 471452700.0, "mode": 0},
+    {"bandwidth": 12500.0, "frequency": 471552400.0, "mode": 0},
+]
