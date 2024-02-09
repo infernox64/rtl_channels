@@ -1,15 +1,17 @@
-freq_list = [
-    {"bandwidth": 125000.0, "frequency": 4715375000.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 4831779000.0, "mode": 0},
-    {"bandwidth": 125000.0, "frequency": 4715620000.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 4714627000.0, "mode": 0},
-    {"bandwidth": 125000.0, "frequency": 4714627000.0, "mode": 0},
-    {"bandwidth": 125000.0, "frequency": 4714375000.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 483515400.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 483163900.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 483526200.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 483539300.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 483186800.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 471452700.0, "mode": 0},
-    {"bandwidth": 12500.0, "frequency": 471552400.0, "mode": 0},
-]
+{
+    "root": [
+        {"name": "Braintree_PD", "bandwidth": 125000, "frequency": 4715375000},
+        {"name": "EMS", "bandwidth": 12500, "frequency": 4831779000},
+        {"name": "PD2", "bandwidth": 125000, "frequency": 4715620000},
+        {"name": "PD3", "bandwidth": 12500, "frequency": 4714627000},
+        {"name": "PD4", "bandwidth": 125000, "frequency": 4714627000},
+        {"name": "Randolph_PD", "bandwidth": 125000, "frequency": 4714375000},
+        {"name": "ems2", "bandwidth": 12500, "frequency": 483515400},
+        {"name": "ems3", "bandwidth": 12500, "frequency": 483163900},
+        {"name": "fire", "bandwidth": 12500, "frequency": 483526200},
+        {"name": "fire_dept", "bandwidth": 12500, "frequency": 483539300},
+        {"name": "more_ems", "bandwidth": 12500, "frequency": 483186800},
+        {"name": "other_PD", "bandwidth": 12500, "frequency": 471452700},
+        {"name": "other_PD2", "bandwidth": 12500, "frequency": 471552400},
+    ]
+}
