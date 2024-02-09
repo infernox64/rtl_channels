@@ -1,4 +1,4 @@
-{
+freq_list = {
     "root": [
         {"name": "Braintree_PD", "bandwidth": 125000, "frequency": 4715375000},
         {"name": "EMS", "bandwidth": 12500, "frequency": 4831779000},
