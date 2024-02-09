@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rtl_channels
+Version: 0.0.0
+Summary: package containing a list of police and emergency radio frequencies with built-in support for pyrtlsdr
+Author-email: Matt Johnson <infernox64@gmail.com>
+Project-URL: Homepage, https://github.com/infernox64/rtl_channels
+Project-URL: Issues, https://github.com/infernox64/rtl_channels/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyrtlsdr
+Requires-Dist: pyrtlsdrlib
+Requires-Dist: sqlite3
